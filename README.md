@@ -4,32 +4,32 @@ The purpose of this analysis is to compare multiple forms of machine learning pr
 
 ## Results
 
-* **Naive Random Oversampler*
+* **Naive Random Oversampler**
     * Balanced Accuracy Score: 64.62% 
     * Precision: 99%
     * Recall: 66%
 
-* **SMOTE Oversampling*
+* **SMOTE Oversampling**
     * Balanced Accuracy Score: 61.20%
     * Precision: 99%
     * Recall: 63%
 
-* **Cluster Centroids Undersampling*
+* **Cluster Centroids Undersampling**
     * Balanced Accuracy Score: 51.60% 
     * Precision: 99%
     * Recall: 44%
 
-* **Combination (SMOTEENN) Sampling*
+* **Combination (SMOTEENN) Sampling**
     * Balanced Accuracy Score: 63.64%
     * Precision: 99%
     * Recall: 58%
 
-* **Balanced Random Forest Classifier*
+* **Balanced Random Forest Classifier**
     * Balanced Accuracy Score: 78.78%
     * Precision: 99%
     * Recall: 91%
 
-* **Easy Ensemble AdaBoost Classifier*
+* **Easy Ensemble AdaBoost Classifier**
     * Balanced Accuracy Score: 92.54% 
     * Precision: 99%
     * Recall: 94%
